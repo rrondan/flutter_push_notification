@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268765332412",
+    "firebase_url": "https://flutter-notification-app-cd3be.firebaseio.com",
+    "project_id": "flutter-notification-app-cd3be",
+    "storage_bucket": "flutter-notification-app-cd3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268765332412:android:c67beaf2db4bd1fb83e1b9",
+        "android_client_info": {
+          "package_name": "pe.quipucode.push_notifications_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268765332412-jlc80b9btsalr37j0415apm8ntr510b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDgfKv6uGA7yaiKk6rnNfb7asTxpw7K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268765332412-jlc80b9btsalr37j0415apm8ntr510b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
